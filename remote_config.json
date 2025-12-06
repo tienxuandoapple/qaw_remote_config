@@ -1,6 +1,4 @@
 {
-    "feature_new_home_ui": true,
-    "enable_chat_ai_bot": false,
     "force_update": false,
     "min_version": "1.0.0",
     "maintenance_mode": false,
