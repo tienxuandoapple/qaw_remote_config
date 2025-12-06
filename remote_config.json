@@ -3,6 +3,6 @@
     "enable_chat_ai_bot": false,
     "force_update": false,
     "min_version": "1.0.0",
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message_en": "The app is under maintenance, please try again later."
 }
